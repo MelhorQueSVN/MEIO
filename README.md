@@ -1,2 +1,4 @@
-# MEIO
-Trabalho Prático de MEIO 2018/2019
+# Modelos Estocásticos de Investigação Operacional - 18/19
+Repositório para a UC Modelos Estocásticos de Investigação Operacional
+
+Nota: 
